@@ -46,9 +46,8 @@ main{
 }
 
 h2{
-    font-size: 56px;
-    line-height: 10px;
-    font-family: poppinsmedium;
+    font-weight: 200;
+    
 }
 
 span{
@@ -57,7 +56,7 @@ span{
 
 p{
     line-height: 20px;
-    max-width: 500px;
+    max-width: 600px;
     font-family: poppinslight;
 }
 
