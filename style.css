@@ -89,3 +89,10 @@ input{
     border: none;
     font-size: 15px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column; /* Alinha os itens em coluna */
+    align-items: flex-start; /* Alinha os itens à esquerda */
+    margin-bottom: 20px; /* Espaço entre linhas */
+}
